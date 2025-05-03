@@ -1,1 +1,1 @@
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sher1ock-jp)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sher1ock-jp)
