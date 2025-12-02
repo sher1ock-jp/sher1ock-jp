@@ -1,5 +1,6 @@
 ## My Tech Stack & Stats
 
-![Sher1ock-jp's GitHub stats](https://github-readme-stats.vercel.app/api?username=sher1ock-jp&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sher1ock-jp&layout=compact&count_private=true&theme=tokyonight)
+
 
 
